@@ -1,0 +1,5 @@
+/*shop detail*/
+.item-counter {background: #F7F7F7;border: 1px solid #F4F4F4;float: left;height: 47px;margin-right:0 px; width:auto;}
+.item-counter span {cursor: pointer; height: 47px; line-height: 37px;text-align: center;width: 27px;}
+.item-counter input.items-total { background: #FFFFFF; border: 0 none; cursor: default;  display: inline-block; height: 45px;  line-height: 41px;margin: 0; padding: 0;text-align: center;width: 42px;}
+
